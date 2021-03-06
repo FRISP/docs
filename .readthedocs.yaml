@@ -9,7 +9,7 @@ mkdocs:
   configuration: mkdocs.yml
 
 python:
-   version: 3.8.5
+   version: 3.8
    install:
      - requirements: requirements.txt
 
